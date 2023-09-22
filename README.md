@@ -20,8 +20,8 @@ This repository is the infrastructure of the `emrah-bullseye` installer.
 Download the installer and run it with the template name as an argument.
 
 ```bash
-wget https://raw.githubusercontent.com/emrahcom/emrah-bullseye-base/main/installer/eb
-wget https://raw.githubusercontent.com/emrahcom/emrah-bullseye-base/main/installer/eb-base.conf
+wget https://raw.githubusercontent.com/chimjk/jitsi-bulleye-base/main/installer/eb
+wget https://raw.githubusercontent.com/chimjk/jitsi-bulleye-base/main/installer/eb-base.conf
 bash eb eb-base
 ```
 
@@ -30,7 +30,7 @@ bash eb eb-base
 #### Templates
 
 See the
-[emrah-bullseye-templates](https://github.com/emrahcom/emrah-bullseye-templates)
+[emrah-bullseye-templates](https://github.com/chimjk/jitsi-bulleye)
 repository for the available templates.
 
 ---
